@@ -1,0 +1,14 @@
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/bin/Debug/netcoreapp2.1/TournamentApi.deps.json
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/bin/Debug/netcoreapp2.1/TournamentApi.runtimeconfig.json
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/bin/Debug/netcoreapp2.1/TournamentApi.runtimeconfig.dev.json
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/bin/Debug/netcoreapp2.1/TournamentApi.dll
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/bin/Debug/netcoreapp2.1/TournamentApi.pdb
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.csprojAssemblyReference.cache
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.csproj.CoreCompileInputs.cache
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.RazorAssemblyInfo.cache
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.RazorAssemblyInfo.cs
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.AssemblyInfoInputs.cache
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.AssemblyInfo.cs
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.RazorTargetAssemblyInfo.cache
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.dll
+/Users/anthonyscinocco/NetCoreAppTournamentApp/TournamentApi/obj/Debug/netcoreapp2.1/TournamentApi.pdb
